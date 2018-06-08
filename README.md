@@ -3,9 +3,7 @@ Iot Camera project
 
 ## Getting Started
 
-### Prerequisites
-
-##  Hardware
+###  Hardware
 
 - Raspberry Pi Zero W Starter Kit
 - Camera Module
