@@ -17,7 +17,7 @@ Iot Camera project
 
 ### Raspian first Steps
 
-- Log in with: pi 
+- Log in with: ```shell pi ``` 
 - password: raspberry
 - Changing Your Password: sudo password
 - change settings for WIFI and ssh: sudo raspi-config
